@@ -1,0 +1,91 @@
+{
+  "total_chunks": 214,
+  "chapters_processed": 14,
+  "collection": "ncert_science_class9",
+  "chapter_details": [
+    {
+      "file": "iesc101.pdf",
+      "chapter": 1,
+      "title": "Matter in Our Surroundings",
+      "subject": "Chemistry"
+    },
+    {
+      "file": "iesc102.pdf",
+      "chapter": 2,
+      "title": "Is Matter Around Us Pure?",
+      "subject": "Chemistry"
+    },
+    {
+      "file": "iesc103.pdf",
+      "chapter": 3,
+      "title": "Atoms and Molecules",
+      "subject": "Chemistry"
+    },
+    {
+      "file": "iesc104.pdf",
+      "chapter": 4,
+      "title": "Structure of the Atom",
+      "subject": "Chemistry"
+    },
+    {
+      "file": "iesc105.pdf",
+      "chapter": 5,
+      "title": "The Fundamental Unit of Life",
+      "subject": "Biology"
+    },
+    {
+      "file": "iesc106.pdf",
+      "chapter": 6,
+      "title": "Tissues",
+      "subject": "Biology"
+    },
+    {
+      "file": "iesc107.pdf",
+      "chapter": 7,
+      "title": "Motion",
+      "subject": "Physics"
+    },
+    {
+      "file": "iesc108.pdf",
+      "chapter": 8,
+      "title": "Force and Laws of Motion",
+      "subject": "Physics"
+    },
+    {
+      "file": "iesc109.pdf",
+      "chapter": 9,
+      "title": "Gravitation",
+      "subject": "Physics"
+    },
+    {
+      "file": "iesc110.pdf",
+      "chapter": 10,
+      "title": "Work and Energy",
+      "subject": "Physics"
+    },
+    {
+      "file": "iesc111.pdf",
+      "chapter": 11,
+      "title": "Sound",
+      "subject": "Physics"
+    },
+    {
+      "file": "iesc112.pdf",
+      "chapter": 12,
+      "title": "Improvement in Food Resources",
+      "subject": "Biology"
+    },
+    {
+      "file": "iesc1an.pdf",
+      "chapter": 99,
+      "title": "Answers",
+      "subject": "Science"
+    },
+    {
+      "file": "iesc1ps.pdf",
+      "chapter": 98,
+      "title": "Prelims",
+      "subject": "Science"
+    }
+  ]
+}
